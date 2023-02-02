@@ -1,5 +1,5 @@
 <template>
-  <h1>Currency converter powered by ExchangeRate.host</h1>
+  <h1>Currency converter powered by ExchangeRate.host API</h1>
   <div class="container">
     <div>
       <div class="controls">
