@@ -1,5 +1,6 @@
 # vue-capstone-exchange-api
 
+Deployed here: https://cosmic-zabaione-f1212d.netlify.app/
 Used the https://exchangerate.host/ api with AXIOS to build this.
 Delivers exchange rate fast and quick.
 
